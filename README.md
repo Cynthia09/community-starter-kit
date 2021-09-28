@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- this is your repository 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- that's deep. 
 
 ## Getting started
 
